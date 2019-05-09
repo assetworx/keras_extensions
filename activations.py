@@ -2,6 +2,7 @@ from keras import backend as K
 
 #
 # SWISH ACTIVATION FUNCTION
+# @rationale
 # @url https://arxiv.org/pdf/1710.05941.pdf
 #
 def swish(x):
