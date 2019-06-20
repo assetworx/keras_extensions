@@ -31,3 +31,7 @@ def leakyrelu(x, alpha = 0.3):
   if alpha < 0:
     raise Exception('Alpha not within accepted range.')
   return x if x >= 0 else x/alpha
+
+# TANH
+def tanh(x):
+  return np.tanh(x)

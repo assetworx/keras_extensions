@@ -7,3 +7,5 @@
 ![Activation](./image_assets/sinerelu.png)
 ## LeakyReLU
 ![Activation](./image_assets/leakyrelu.png)
+## Tanh
+![Activation](./image_assets/tanh.png)
