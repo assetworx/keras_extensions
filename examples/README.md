@@ -5,3 +5,5 @@
 ![Activation](./image_assets/eswish.png)
 ## SineReLU
 ![Activation](./image_assets/sinerelu.png)
+## LeakyReLU
+![Activation](./image_assets/leakyrelu.png)
